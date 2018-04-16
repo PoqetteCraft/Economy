@@ -1,0 +1,8 @@
+name: ${name} 
+main: ${groupId}.${artifactId}.${name}Plugin
+version: ${version}
+author:
+description:
+depend: [Database]
+commands:
+permissions:
